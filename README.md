@@ -15,8 +15,8 @@ average salary and other details. The key challenge was that indeed search field
 for first option. Splinter was used to mouse_over last option that allows "popular search for the specific title desired". Second challenge was 
 the classes would change based on indeed loading two different type of search pages on same URL. The scraped data is stored in a pandas dataframe.
 
-2.
+2. 
 
-3.
+3. Scrape Source # 3 - Scraped job titles and Salary info from www.calu.edu using BeautifulSoup and loaded these 16 lists of job title dictionaries along with salary to a Postgres SQL. These job titles are in turn used to extract more detailed information from indeed.com. There was a challenge in extracting job title information as the job title, a brief description about the job, and salary were all listed as one paragraph without having separate headings for this info. So had to take each list and search through the text to find out the job title and the salary list.
 
 4. MERGE
