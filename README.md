@@ -8,7 +8,7 @@ To use multiple data sources to find data job titles, average salaries and salar
 **SOURCES**
 
 1. Source 1: http://indeed.com/salaries
-2. Source 2: Kaggle CSV files (file for each job title category)
+2. Source 2: https://kaggle.com: Kaggle CSV files (file for each job title category)
 3. Source 3: https://www.calu.edu/academics/undergraduate/bachelors/data-science/what-can-you-do-with-a-statistics-and-data-science-degree.asp
 
 **ETL PROCESS**
