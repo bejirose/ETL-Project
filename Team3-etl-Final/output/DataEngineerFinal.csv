@@ -1,0 +1,154 @@
+,job_title,average_sal,state,city
+0,Data Engineer,93333.33, TX,Plano
+1,Data Engineer,88400.0, NJ,Newark
+2,Big Data Engineer,93100.0, TX,Austin
+3,Data Engineer,128500.0, CA,Cupertino
+4,Senior Data Engineer,94166.67, AZ,Chandler
+5,Data Engineer,106250.0, PA,Malvern
+6,Data Engineer,119500.0, NJ,Secaucus
+7,Data Engineer,38500.0, FL,Jacksonville
+8,Data Engineer,94166.67, AZ,Scottsdale
+9,Data Engineer,109111.11, PA,Philadelphia
+10,Data Engineer,121583.33, CA,Culver City
+11,Big Data Engineer,84500.0, TX,Arlington
+12,Sr Data Engineer,77000.0, TX,Houston
+13,Data Engineer,143642.86, CA,Santa Clara
+14,Data Engineer,131000.0, CA,Walnut
+15,Senior Data Engineer,113593.75, CA,Los Angeles
+16,Software Engineer,141000.0, CA,Sunnyvale
+17,Software Engineer,95500.0, AZ,Scottsdale
+18,Senior Data Engineer,84916.67, PA,Philadelphia
+19,Senior Big Data Engineer,82500.0, TX,Westlake
+20,Machine Learning Engineer,68500.0, TX,Austin
+21,Data Engineer,153500.0, CA,Milpitas
+22,Senior Big Data Engineer,69500.0, IL,Chicago
+23,Data Engineer,84500.0, TX,Richardson
+24,Data Engineer,122966.67, IL,Chicago
+25,Senior Data Engineer,111000.0, CA,Sunnyvale
+26,Big Data Engineer,99500.0, TX,Dallas
+27,Software Engineer,158000.0, CA,Pasadena
+28,Data Engineer,97000.0, AZ,Tempe
+29,Big Data Engineer,87192.31, TX,Irving
+30,Big Data Engineer,140500.0, CA,Sunnyvale
+31,Machine Learning Engineer,204000.0, CA,San Diego
+32,Big Data Engineer,84500.0, TX,Allen
+33,Machine Learning Engineer,99500.0, CA,Los Angeles
+34,Software Engineer,103200.0, PA,Philadelphia
+35,Big Data Engineer,119750.0, CA,Palo Alto
+36,Data Engineer,94750.0, CA,Fremont
+37,Data Engineer,131944.44, CA,San Diego
+38,Big Data Engineer,119333.33, TX,Plano
+39,Data Engineer,93500.0, AZ,Chandler
+40,Data Engineer,113000.0, NJ,Fort Lee
+41,Software Engineer,38500.0, FL,Jacksonville
+42,Data Engineer,136625.0, CA,Palo Alto
+43,Senior Data Engineer,143500.0, CA,Anaheim
+44,Data Engineer,107500.0, TX,Carrollton
+45,Big Data Engineer,93928.57, IL,Chicago
+46,Data Engineer,124666.67, CA,Pasadena
+47,Machine Learning Engineer,96750.0, TX,Dallas
+48,Data Engineer,66000.0, NJ,Bloomfield
+49,Data Engineer,98187.5, TX,Houston
+50,Senior Data Engineer,99375.0, AZ,Scottsdale
+51,Data Engineer,112000.0, CA,Anaheim
+52,Data Engineer,92200.0, TX,Dallas
+53,Data Engineer,123150.0, CA,San Jose
+54,Senior Data Engineer,117500.0, CA,Mountain View
+55,Senior Data Engineer,104000.0, TX,Sunnyvale
+56,Big Data Engineer,129000.0, CA,Burbank
+57,Data Engineer,122500.0, CA,Pleasanton
+58,Senior Big Data Engineer,129000.0, CA,Los Angeles
+59,Junior Data Engineer,121750.0, CA,Culver City
+60,Data Engineer,130000.0, PA,King of Prussia
+61,Software Engineer,111000.0, CA,Mountain View
+62,Big Data Engineer,143500.0, CA,Los Angeles
+63,Big Data Engineer,103500.0, CA,Pleasanton
+64,Data Engineer,97000.0, IL,Elmhurst
+65,Big Data Engineer,125833.33, DE,Wilmington
+66,Senior Big Data Engineer,165750.0, CA,San Jose
+67,Senior Data Engineer,82000.0, TX,Houston
+68,Data Engineer,125647.06, CA,Menlo Park
+69,Big Data Engineer,105000.0, TX,Lewisville
+70,Software Engineer,72750.0, TX,San Antonio
+71,Senior Data Engineer,95900.0, TX,Dallas
+72,Machine Learning Engineer,89750.0, PA,Philadelphia
+73,Data Engineer,112250.0, CA,Glendale
+74,Data Engineer,129000.0, CA,La Jolla
+75,Data Engineer,112000.0, CA,Santa Monica
+76,Data Engineer,117200.0, CA,Burbank
+77,Machine Learning Engineer,128500.0, CA,Palo Alto
+78,Data Engineer,119500.0, NJ,Parsippany
+79,Senior Big Data Engineer,98666.67, TX,Irving
+80,Software Engineer,90250.0, NJ,Moorestown
+81,Sr Data Engineer,114250.0, CA,Los Angeles
+82,Data Engineer,92500.0, TX,Fort Worth
+83,Senior Data Engineer,105800.0, TX,Austin
+84,Software Engineer,74500.0, AZ,Chandler
+85,Data Engineer,117500.0, CA,Belmont
+86,Sr Data Engineer,83500.0, TX,San Antonio
+87,Software Engineer,105833.33, TX,Austin
+88,Machine Learning Engineer,82500.0, PA,Valley Forge
+89,Software Engineer,91500.0, NJ,Camden
+90,Data Engineer,90700.0, DE,Wilmington
+91,Data Engineer,131115.38, CA,Mountain View
+92,Software Engineer,71333.33, TX,Fort Worth
+93,Data Engineer,108000.0, CA,Woodland Hills
+94,Software Engineer,146500.0, IL,Chicago
+95,Senior Data Engineer,128500.0, CA,San Jose
+96,Machine Learning Engineer,75625.0, TX,Irving
+97,Data Engineer,121326.09, CA,Los Angeles
+98,Senior Data Engineer,98666.67, IL,Chicago
+99,Big Data Engineer,80000.0, PA,Newtown
+100,Senior Data Engineer,98500.0, PA,Blue Bell
+101,Software Engineer,115000.0, NJ,Jersey City
+102,Big Data Engineer,132250.0, CA,San Jose
+103,Senior Data Engineer,104000.0, TX,Lewisville
+104,Senior Data Engineer,99333.33, AZ,Phoenix
+105,Software Engineer,83294.12, TX,Houston
+106,Data Engineer,107152.17, TX,Austin
+107,Data Engineer,89500.0, TX,Lewisville
+108,Senior Data Engineer,99625.0, TX,San Antonio
+109,Senior Data Engineer,79000.0, PA,Ambler
+110,Software Engineer,83500.0, NY,New York
+111,Data Engineer,130000.0, NJ,Cherry Hill
+112,Big Data Engineer,130000.0, PA,Philadelphia
+113,Data Engineer,113200.0, CA,El Segundo
+114,Data Engineer,112500.0, CA,Encino
+115,Software Engineer,138500.0, CA,Los Angeles
+116,Data Engineer,116000.0, CA,Campbell
+117,Sr Data Engineer,61000.0, TX,Irving
+118,Software Engineer,156555.56, CA,San Diego
+119,Data Engineer,99385.71, NY,New York
+120,Data Engineer,107500.0, TX,Allen
+121,Big Data Engineer,155500.0, CA,San Diego
+122,Data Engineer,116119.05, CA,Sunnyvale
+123,Big Data Engineer,113000.0, NY,New York
+124,Software Engineer,98300.0, AZ,Phoenix
+125,Senior Data Engineer,142250.0, CA,Encinitas
+126,Big Data Engineer,80000.0, PA,King of Prussia
+127,Senior Data Engineer,98388.89, NY,New York
+128,Data Engineer,131000.0, CA,Wilmington
+129,Data Engineer,96500.0, TX,Round Rock
+130,Machine Learning Engineer,91500.0, AZ,Phoenix
+131,Data Engineer,93382.35, AZ,Phoenix
+132,Big Data Engineer,75833.33, TX,Houston
+133,Data Engineer,91750.0, TX,Irving
+134,Data Engineer,121500.0, CA,Universal City
+135,Senior Data Engineer,128750.0, CA,Santa Monica
+136,Data Engineer,157333.33, CA,Redwood City
+137,Senior Data Engineer,112500.0, CA,Burbank
+138,Data Engineer,113000.0, NJ,Holmdel
+139,Machine Learning Engineer,105000.0, TX,San Antonio
+140,Senior Data Engineer,123000.0, CA,Palo Alto
+141,Senior Data Engineer,133875.0, CA,San Diego
+142,Software Engineer,122000.0, AZ,Tempe
+143,Big Data Engineer,99727.27, AZ,Phoenix
+144,Junior Data Engineer,100166.67, TX,Austin
+145,Machine Learning Engineer,82000.0, TX,Houston
+146,Data Engineer,112000.0, CA,Marina del Rey
+147,Senior Big Data Engineer,129000.0, CA,Burbank
+148,Software Engineer,45000.0, TX,Arlington
+149,Data Engineer,83250.0, IL,Downers Grove
+150,Data Engineer,83500.0, TX,San Antonio
+151,Software Engineer,53000.0, TX,Irving
+152,Senior Data Engineer,113875.0, TX,Plano

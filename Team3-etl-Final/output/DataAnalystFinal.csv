@@ -1,0 +1,403 @@
+,job_title,average_sal,state,city
+0,Data Analyst,56000.0, VA,Norfolk
+1,Data Analyst,61500.0, MA,Burlington
+2,Data Analyst,66833.33, VA,Chantilly
+3,Data Analyst,85250.0, NJ,Piscataway
+4,Data Analyst,59281.25, PA,Philadelphia
+5,Junior Data Analyst,92000.0, CO,Aurora
+6,Data Analyst,63500.0, MI,Farmington Hills
+7,Senior Data Analyst,68500.0, AZ,Tempe
+8,Data Analyst,114666.67, CA,Redwood City
+9,Data Analyst,43000.0, NC,Winston-Salem
+10,Data Analyst,61000.0, OH,Cleveland
+11,Data Analyst,64000.0, CA,Reedley
+12,Data Analyst,112000.0, OR,Portland
+13,Junior Data Analyst,36000.0, TX,Dallas
+14,Data Analyst,40500.0, PA,West Chester
+15,Junior Data Analyst,42000.0, FL,Gainesville
+16,Senior Data Analyst,72000.0, CA,San Jose
+17,Data Analyst,112000.0, OR,Oregon City
+18,Junior Data Analyst,52500.0, WI,Milwaukee
+19,Data Analyst,74500.0, GA,Forest Park
+20,Data Analyst,61500.0, AK,Anchorage
+21,BI Data Analyst,79500.0, IL,Chicago
+22,Senior Data Analyst,55000.0, CO,Colorado Springs
+23,Data Analyst,74500.0, TN,Nashville
+24,Senior Data Analyst,77277.78, DC,Washington
+25,Junior Data Analyst,51000.0, WA,Redmond
+26,Data Analyst,40500.0, PA,Chester Township
+27,Data Analyst,40500.0, PA,Allegheny West
+28,Data Analyst,62000.0, OK,Tulsa
+29,Data Analyst,53500.0, NY,Buffalo
+30,Senior Data Analyst,65166.67, TX,Austin
+31,Senior Data Analyst,63333.33, TX,Dallas
+32,Data Analyst,43500.0, OH,Toledo
+33,Junior Data Analyst,68166.67, GA,Atlanta
+34,Data Analyst,40750.0, TX,Dallas
+35,Junior Data Analyst,47500.0, MN,Minneapolis
+36,BI Data Analyst,80500.0, CA,San Francisco
+37,Data Analyst,68333.33, NC,Durham
+38,Data Analyst,105916.67, CA,Oakland
+39,Data Analyst,59944.44, GA,Atlanta
+40,Senior Data Analyst,74500.0, OH,Cincinnati
+41,Data Analyst,99000.0, CA,Novato
+42,Senior Data Analyst,56000.0, FL,Jacksonville
+43,Senior Data Analyst,66000.0, CA,San Mateo
+44,Data Analyst,39000.0, GA,Peachtree Corners
+45,Data Analyst,77166.67, VA,Fort Belvoir
+46,Junior Data Analyst,59500.0, PA,Philadelphia
+47,Data Analyst,44000.0, GA,Athens
+48,Junior Data Analyst,61500.0, NJ,Toms River
+49,Data Analyst,49000.0, PA,Canonsburg
+50,Senior Data Analyst,75500.0, CA,Milpitas
+51,Data Analyst,71305.56, MA,Boston
+52,Data Analyst,60500.0, CA,Sanger
+53,Data Analyst,47500.0, MN,Saint Paul
+54,Data Analyst,75000.0, MA,Newton
+55,Data Analyst,66800.0, CO,Centennial
+56,Data Analyst,56000.0, VA,Hampton
+57,Junior Data Analyst,44000.0, GA,Athens
+58,Data Analyst,40500.0, PA,Conshohocken
+59,Junior Data Analyst,62500.0, NC,Raleigh
+60,Data Analyst,50666.67, TX,Frisco
+61,Data Analyst,55500.0, NM,Albuquerque
+62,Data Analyst,36045.45, TX,Houston
+63,Junior Data Analyst,36500.0, UT,Lehi
+64,Data Analyst,53500.0, CA,San Dimas
+65,Data Analyst,63500.0, MI,Bloomfield Hills
+66,Data Analyst,46000.0, FL,Miami
+67,Data Analyst,70266.58, CA,Los Angeles
+68,Data Analyst,55500.0, NJ,Lyndhurst
+69,Senior Data Analyst,105000.0, NC,Raleigh
+70,Data Analyst,53500.0, CA,Pasadena
+71,Data Analyst,106800.0, CA,Menlo Park
+72,Senior Data Analyst,71722.22, CA,Los Angeles
+73,Senior Data Analyst,55700.0, TX,San Antonio
+74,Data Analyst,68500.0, MD,Hyattsville
+75,Data Analyst,80000.0, NC,Chapel Hill
+76,Data Analyst,63500.0, TX,Grapevine
+77,Data Analyst,106000.0, NJ,Parsippany
+78,Senior Data Analyst,36500.0, UT,Draper
+79,Senior Data Analyst,50750.0, IN,Jeffersonville
+80,Senior Data Analyst,70000.0, MD,Baltimore
+81,Data Analyst,57000.0, MD,Ruxton
+82,Data Analyst,51000.0, WA,Tukwila
+83,Data Analyst,70250.0, MN,Minnetonka
+84,Data Analyst,73571.43, AZ,Tempe
+85,Data Analyst,56500.0, NJ,Basking Ridge
+86,Data Analyst,63500.0, MI,Southfield
+87,Data Analyst,109739.13, CA,San Francisco
+88,Data Analyst,49000.0, PA,Pittsburgh
+89,Data Analyst,56250.0, DE,Wilmington
+90,Junior Data Analyst,42000.0, IN,Fort Wayne
+91,Junior Data Analyst,47500.0, MN,Saint Paul
+92,Data Analyst,150000.0, CA,Fremont
+93,Data Analyst,64500.0, NJ,Hamilton
+94,Data Analyst,67071.43, CO,Denver
+95,Data Analyst,64500.0, MD,Hunt Valley
+96,Data Analyst,77083.33, VA,Alexandria
+97,Junior Data Analyst,56000.0, VA,Norfolk
+98,Data Analyst,69000.0, NJ,Florham Park
+99,Data Analyst,73750.0, WA,Kirkland
+100,Data Analyst,67750.0, NC,Mooresville
+101,Data Analyst,56000.0, VA,Virginia Beach
+102,Junior Data Analyst,48000.0, FL,Orlando
+103,Data Analyst,68100.0, MD,Baltimore
+104,Senior Data Analyst,36500.0, UT,Salt Lake City
+105,Data Analyst,63500.0, MI,Detroit
+106,Junior Data Analyst,46000.0, FL,Miami
+107,Junior Data Analyst,54000.0, KY,Louisville
+108,Data Analyst,75000.0, NJ,Trenton
+109,Data Analyst,79166.67, CA,Irvine
+110,Data Analyst,81000.0, CO,Aurora
+111,Data Analyst,53500.0, CA,Carson
+112,Senior Data Analyst,81500.0, OH,Mason
+113,Data Analyst,62500.0, NC,Research Triangle Park
+114,BI Data Analyst,52500.0, WI,Pewaukee
+115,Data Analyst,118000.0, VA,Fairfax
+116,Data Analyst,104428.57, CA,San Mateo
+117,Senior Data Analyst,88500.0, PA,Wayne
+118,Senior Data Analyst,71500.0, TX,Frisco
+119,Big Data Analyst,62500.0, MD,Rockville
+120,Data Analyst,85400.0, VA,Arlington
+121,Junior Data Analyst,77000.0, VA,Arlington
+122,Data Analyst,99000.0, CA,San Bruno
+123,Data Analyst,47785.71, TX,Irving
+124,Data Analyst,64500.0, NJ,Neptune
+125,Data Analyst,55500.0, GA,Marietta
+126,Senior Data Analyst,96000.0, CA,Palo Alto
+127,Data Analyst,61500.0, NJ,Eatontown
+128,Data Analyst,60506.5, CA,El Segundo
+129,Senior Data Analyst,58000.0, NY,Brooklyn
+130,Junior Data Analyst,74500.0, TN,Nashville
+131,Data Analyst,66000.0, IL,Des Plaines
+132,Junior Data Analyst,50500.0, NC,Greensboro
+133,Senior Data Analyst,63000.0, TX,Plano
+134,Data Analyst,59500.0, NJ,Newark
+135,Junior Data Analyst,56000.0, FL,Jacksonville
+136,Data Analyst,48000.0, FL,Orlando
+137,Data Analyst,76500.0, VA,McLean
+138,Data Analyst,55000.0, CO,Colorado Springs
+139,Data Analyst,68833.33, NY,Brooklyn
+140,Junior Data Analyst,55000.0, CO,Colorado Springs
+141,Data Analyst,81375.0, MD,Rockville
+142,Senior Data Analyst,47500.0, IN,Indianapolis
+143,Big Data Analyst,81500.0, VA,Reston
+144,Data Analyst,84500.0, MD,Millersville
+145,Data Analyst,66000.0, VA,Falls Church
+146,Data Analyst,138500.0, CA,Berkeley
+147,Data Analyst,51500.0, CA,Bakersfield
+148,Junior Data Analyst,68000.0, NC,Charlotte
+149,Senior Data Analyst,82000.0, OR,Portland
+150,Data Analyst,40000.0, OH,Columbus
+151,Data Analyst,62000.0, CO,Boulder
+152,Data Analyst,66595.24, NC,Charlotte
+153,Data Analyst,53000.0, PA,West Conshohocken
+154,Data Analyst,86000.0, MA,Cambridge
+155,Data Analyst,59500.0, PA,Feasterville Trevose
+156,Data Analyst,42000.0, FL,Gainesville
+157,Senior Data Analyst,118250.0, CA,Santa Clara
+158,Data Analyst,64500.0, NE,South Bend
+159,Data Analyst,73500.0, AZ,Mesa
+160,Data Analyst,85000.0, NJ,South Plainfield
+161,Big Data Analyst,64500.0, NJ,Bridgewater
+162,Senior Data Analyst,49500.0, MA,Cambridge
+163,Senior Data Analyst,54000.0, CA,Culver City
+164,Data Analyst,70000.0, CO,Louisville
+165,Data Analyst,49500.0, MA,Norwell
+166,Data Analyst,75500.0, OK,Oklahoma City
+167,Data Analyst,69333.33, VA,Vienna
+168,Data Analyst,39000.0, GA,Duluth
+169,Senior Data Analyst,73750.0, AZ,Phoenix
+170,Senior Data Analyst,72000.0, CA,East Palo Alto
+171,Senior Data Analyst,97833.33, MO,Saint Louis
+172,Junior Data Analyst,61000.0, OH,Cleveland
+173,Data Analyst,68919.35, IL,Chicago
+174,Junior Data Analyst,60500.0, CA,Fresno
+175,Data Analyst,132666.67, CA,Palo Alto
+176,Data Analyst,68000.0, TX,Fort Worth
+177,Data Analyst,64750.0, NY,Long Island City
+178,Junior Data Analyst,57000.0, MD,Baltimore
+179,Data Analyst,46750.0, PA,Paoli
+180,Data Analyst,60500.0, CA,Rancho Cucamonga
+181,Data Analyst,69250.0, IL,Northbrook
+182,Data Analyst,105000.0, NC,Cary
+183,Data Analyst,66250.0, CA,Burbank
+184,Data Analyst,64357.14, NJ,Princeton
+185,Data Analyst,79000.0, CA,Hermosa Beach
+186,Data Analyst,36500.0, UT,West Jordan
+187,Junior Data Analyst,66500.0, CA,Sacramento
+188,Data Analyst,75000.0," Mercer, NJ",Princeton Junction
+189,Data Analyst,59500.0, NJ,Camden
+190,Junior Data Analyst,49500.0, MO,Saint Louis
+191,Data Analyst,65500.0, MO,Kansas City
+192,Data Analyst,63500.0, MI,Dearborn
+193,Data Analyst,66772.73, AZ,Phoenix
+194,Data Analyst,67000.0, LA,New Orleans
+195,Data Analyst,37532.5, CA,Torrance
+196,Senior Data Analyst,74500.0, KY,Covington
+197,Junior Data Analyst,104500.0, TN,Memphis
+198,Data Analyst,74500.0, TN,Franklin
+199,Junior Data Analyst,73500.0, CA,Irvine
+200,Data Analyst,51000.0, FL,Jacksonville
+201,Data Analyst,57000.0, MD,Timonium
+202,Data Analyst,99500.0, MD,Annapolis Junction
+203,Data Analyst,86500.0, CA,Livermore
+204,Senior Data Analyst,96000.0, PA,Pittsburgh
+205,Data Analyst,59500.0, NY,Lake Success
+206,Data Analyst,110125.0, CA,Sunnyvale
+207,Data Analyst,63500.0, TX,Arlington
+208,Junior Data Analyst,40000.0, OH,Columbus
+209,Data Analyst,50227.27, TX,San Antonio
+210,Data Analyst,61500.0, WI,Madison
+211,Senior Data Analyst,71166.67, TX,Houston
+212,Data Analyst,56133.13, CA,Anaheim
+213,Data Analyst,123428.57, CA,Santa Clara
+214,Senior Data Analyst,60000.0, MI,Southfield
+215,Data Analyst,126000.0, CA,Marin City
+216,Data Analyst,63000.0, TX,Coppell
+217,Junior Data Analyst,73166.67, CA,Long Beach
+218,Data Analyst,49500.0, MO,Creve Coeur
+219,Data Analyst,71000.0, MD,Fort Meade
+220,Data Analyst,40500.0, PA,Newtown
+221,Data Analyst,66250.0, CA,Glendale
+222,Data Analyst,74500.0, TN,Brentwood
+223,Senior Data Analyst,80500.0, VA,Norfolk
+224,Junior Data Analyst,80000.0, NC,Durham
+225,Data Analyst,52500.0, WI,Milwaukee
+226,Senior Data Analyst,84500.0, VA,Herndon
+227,Data Analyst,70000.0, CO,Broomfield
+228,Data Analyst,56000.0, VA,Chesapeake
+229,Data Analyst,85650.0, FL,Tampa
+230,Data Analyst,77500.0, MD,Bethesda
+231,Data Analyst,66750.0, NC,Raleigh
+232,Data Analyst,47500.0, IN,Carmel
+233,Data Analyst,65500.0, KS,Overland Park
+234,Data Analyst,53500.0, NY,Williamsville
+235,Senior Data Analyst,59333.33, GA,Atlanta
+236,Data Analyst,88166.67, IL,Scott AFB
+237,Data Analyst,70250.0, MN,Eden Prairie
+238,Data Analyst,51000.0, WA,Renton
+239,Junior Data Analyst,70250.0, IL,Chicago
+240,Data Analyst,50500.0, NC,High Point
+241,Data Analyst,81500.0, OH,Milford
+242,Data Analyst,81500.0, OH,Cincinnati
+243,Senior Data Analyst,117000.0, CO,Westminster
+244,Data Analyst,64500.0, SC,Fort Mill
+245,Data Analyst,49500.0, MO,Maryland Heights
+246,Data Analyst,59500.0, NJ,Fort Lee
+247,Junior Data Analyst,56000.0, VA,Hampton
+248,Data Analyst,93285.71, WA,Redmond
+249,Senior Data Analyst,78833.33, CA,San Diego
+250,Senior Data Analyst,73000.0, CA,Glendale
+251,Data Analyst,99000.0, CA,National City
+252,Junior Data Analyst,92500.0, CA,Fremont
+253,Data Analyst,61000.0, OH,Independence
+254,Junior Data Analyst,112000.0, OR,Portland
+255,Data Analyst,71000.0, KS,Leavenworth
+256,Senior Data Analyst,56000.0, VA,Portsmouth
+257,Junior Data Analyst,99000.0, CA,San Diego
+258,Data Analyst,64500.0, NE,Omaha
+259,Data Analyst,95500.0, CA,Ontario
+260,Data Analyst,97500.0, VA,Sterling
+261,Senior Data Analyst,46000.0, FL,Miami Lakes
+262,Junior Data Analyst,51000.0, WA,Seattle
+263,Data Analyst,64500.0, NC,Indian Trail
+264,Data Analyst,40500.0, PA,Horsham
+265,Data Analyst,79000.0, CA,Culver City
+266,Senior Data Analyst,75400.0, MA,Boston
+267,Senior Data Analyst,70166.67, AZ,Scottsdale
+268,Data Analyst,55500.0, GA,Alpharetta
+269,Junior Data Analyst,95500.0, CA,Santa Ana
+270,Junior Data Analyst,53500.0, NY,Buffalo
+271,Data Analyst,57666.67, IN,Indianapolis
+272,Data Analyst,104500.0, TN,Memphis
+273,BI Data Analyst,92500.0, CA,South San Francisco
+274,Senior Data Analyst,63000.0, TX,Farmers Branch
+275,Junior Data Analyst,43000.0, NC,Winston-Salem
+276,Junior Data Analyst,66000.0, VA,McLean
+277,Senior Data Analyst,81700.0, WA,Seattle
+278,Junior Data Analyst,118000.0, MD,Hyattsville
+279,Data Analyst,120000.0, CA,Cupertino
+280,Data Analyst,70250.0, MN,Eagan
+281,Senior Data Analyst,102500.0, CA,San Francisco
+282,Data Analyst,59906.25, TX,Austin
+283,Data Analyst,46000.0, FL,Fort Lauderdale
+284,Big Data Analyst,61500.0, NJ,Jersey City
+285,Data Analyst,112500.0, CA,Daly City
+286,Data Analyst,37532.5, CA,Newport Beach
+287,Data Analyst,82538.46, CA,San Diego
+288,Junior Data Analyst,61500.0, WI,Madison
+289,Data Analyst,0.5, KY,Lexington-Fayette
+290,Senior Data Analyst,63500.0, TX,Irving
+291,Data Analyst,55500.0, MN,Edina
+292,Data Analyst,71500.0, VA,Springfield
+293,Data Analyst,56000.0, VA,Portsmouth
+294,Data Analyst,63500.0, MI,Allen Park
+295,Senior Data Analyst,93000.0, MN,Minneapolis
+296,Junior Data Analyst,59071.43, TX,Austin
+297,Data Analyst,48833.33, NJ,Fairfield
+298,Data Analyst,126000.0, CA,Concord
+299,Senior Data Analyst,115000.0, WA,Redmond
+300,Data Analyst,58000.0, NJ,Haworth
+301,Senior Data Analyst,65500.0, NC,Charlotte
+302,Junior Data Analyst,120000.0, CA,San Jose
+303,Senior Data Analyst,74500.0, TN,Franklin
+304,Junior Data Analyst,49000.0, PA,Pittsburgh
+305,Junior Data Analyst,48000.0, CA,Stockton
+306,Data Analyst,61166.67, CA,Orange
+307,Data Analyst,59000.0, IL,Bridgeview
+308,Junior Data Analyst,85666.67, NY,New York
+309,BI Data Analyst,67000.0, IN,Indianapolis
+310,Data Analyst,55083.33, MN,Minneapolis
+311,Data Analyst,54000.0, KY,Louisville
+312,Data Analyst,36500.0, UT,Salt Lake City
+313,Data Analyst,77875.0, MD,Owings Mills
+314,Data Analyst,64500.0, MO,Saint Louis
+315,Data Analyst,112000.0, OR,Beaverton
+316,Data Analyst,79500.0, IL,Deerfield
+317,Data Analyst,65688.68, NY,New York
+318,Senior Data Analyst,62500.0, NC,Durham
+319,Senior Data Analyst,122500.0, VA,Reston
+320,Junior Data Analyst,43500.0, OH,Toledo
+321,Data Analyst,66500.0, CA,Gold River
+322,Data Analyst,50500.0, NC,Greensboro
+323,Senior Data Analyst,75500.0, OK,Oklahoma City
+324,Senior Data Analyst,82000.0, CA,Irvine
+325,Data Analyst,59500.0, NY,Bronx
+326,Senior Data Analyst,72250.0, CA,Costa Mesa
+327,Junior Data Analyst,0.5, KY,Lexington-Fayette
+328,Junior Data Analyst,81500.0, OH,Cincinnati
+329,Data Analyst,79500.0, IL,Burr Ridge
+330,Senior Data Analyst,67115.38, NY,New York
+331,Data Analyst,126000.0, CA,Foster City
+332,Junior Data Analyst,53500.0, CA,Los Angeles
+333,Senior Data Analyst,61000.0, OH,Cleveland
+334,Senior Data Analyst,54000.0, KY,Louisville
+335,Data Analyst,42000.0, IN,Fort Wayne
+336,Data Analyst,75000.0, MA,Concord
+337,Data Analyst,57000.0, NV,Las Vegas
+338,Data Analyst,75000.0, WA,Seattle
+339,Data Analyst,70900.0, IL,Downers Grove
+340,Data Analyst,66500.0, CA,Sacramento
+341,Senior Data Analyst,68000.0, TX,Arlington
+342,Junior Data Analyst,63500.0, MI,Detroit
+343,Data Analyst,75500.0, MD,Hanover
+344,Data Analyst,126000.0, CA,South San Francisco
+345,Data Analyst,59500.0, NJ,Little Ferry
+346,BI Data Analyst,64500.0, SC,Fort Mill
+347,Senior Data Analyst,74000.0, AZ,Chandler
+348,Data Analyst,33500.0, TX,Stafford
+349,Data Analyst,38766.25, CA,Santa Ana
+350,Junior Data Analyst,37532.5, CA,Anaheim
+351,Data Analyst,81500.0, GA,Kennesaw
+352,Data Analyst,63500.0, TX,Addison
+353,Data Analyst,49500.0, MA,Waltham
+354,Senior Data Analyst,73000.0, CA,Santa Monica
+355,Junior Data Analyst,59500.0, PA,Fort Washington
+356,Junior Data Analyst,57250.0, IN,Indianapolis
+357,Junior Data Analyst,87500.0, FL,Tampa
+358,Junior Data Analyst,112000.0, CA,San Francisco
+359,Data Analyst,69506.5, CA,Santa Monica
+360,Senior Data Analyst,46750.0, PA,Philadelphia
+361,Junior Data Analyst,62000.0, CO,Denver
+362,Junior Data Analyst,61500.0, NJ,Hoboken
+363,Data Analyst,68888.89, NJ,Jersey City
+364,Data Analyst,89705.13, DC,Washington
+365,Data Analyst,130888.89, CA,San Jose
+366,Data Analyst,58000.0, NY,Mount Vernon
+367,Junior Data Analyst,90000.0, NJ,Newark
+368,Data Analyst,48000.0, CA,Stockton
+369,Data Analyst,56500.0, MI,Livonia
+370,Data Analyst,92500.0, CA,San Ramon
+371,Data Analyst,66750.0, CA,Irwindale
+372,Big Data Analyst,36500.0, UT,Salt Lake City
+373,Junior Data Analyst,64500.0, NE,South Bend
+374,Data Analyst,60500.0, CA,Fresno
+375,Data Analyst,115500.0, NJ,New Brunswick
+376,Junior Data Analyst,74500.0, TN,Brentwood
+377,Big Data Analyst,92500.0, CA,San Mateo
+378,Data Analyst,54100.0, TX,Plano
+379,Senior Data Analyst,122000.0, MD,Columbia
+380,Data Analyst,65500.0, KS,Kansas City
+381,Data Analyst,54000.0, IN,Jeffersonville
+382,Senior Data Analyst,80000.0, VA,Mc Lean
+383,Senior Data Analyst,83000.0, VA,Arlington
+384,Data Analyst,72850.0, VA,Reston
+385,Data Analyst,46000.0, FL,Doral
+386,Data Analyst,75500.0, MD,Annapolis
+387,Data Analyst,150000.0, CA,Newark
+388,Data Analyst,49500.0, MO,Saint Charles
+389,Data Analyst,75000.0, MA,Weymouth
+390,Data Analyst,75500.0, MD,Towson
+391,Data Analyst,73500.0, AZ,Scottsdale
+392,Data Analyst,53500.0, NY,Amherst
+393,Data Analyst,65500.0, MO,Grain Valley
+394,Senior Data Analyst,68269.23, IL,Chicago
+395,Data Analyst,47500.0, MN,Shoreview
+396,Junior Data Analyst,86000.0, MA,Boston
+397,Data Analyst,73750.0, VA,Herndon
+398,Senior Data Analyst,71000.0, MD,Rockville
+399,Senior Data Analyst,55500.0, MN,Eden Prairie
+400,Data Analyst,59000.0, IL,Evanston
+401,Data Analyst,62500.0, VA,Mc Lean

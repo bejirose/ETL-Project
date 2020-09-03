@@ -1,0 +1,84 @@
+--DROP TABLE data_analyst;
+CREATE TABLE data_analyst (
+  id SERIAL,
+  job_title VARCHAR(1000),
+  salary_estimate VARCHAR(100),
+  industry varchar(200),
+  location VARCHAR(100),
+  state varchar(1000),
+  city varchar(200),
+  lower float,
+  upper float,
+  average_sal float,
+  PRIMARY KEY (id)
+);
+
+--DROP TABLE data_analyst_final;
+CREATE TABLE data_analyst_final (
+  id SERIAL,
+  job_title VARCHAR(1000),
+  state varchar(1000),
+  city varchar(200),
+  average_sal float,
+  PRIMARY KEY (id)
+);
+--DROP TABLE data_scientist;
+CREATE TABLE data_scientist (
+  id SERIAL,
+  job_title VARCHAR(1000),
+  salary_estimate VARCHAR(100),
+  industry varchar(200),
+  location VARCHAR(100),
+  state varchar(1000),
+  city varchar(200),
+  lower float,
+  upper float,
+  average_sal float,
+  PRIMARY KEY (id)
+);
+
+--DROP TABLE data_scientist_final;
+CREATE TABLE data_scientist_final (
+  id SERIAL,
+  job_title VARCHAR(1000),
+  state varchar(1000),
+  city varchar(200),
+  average_sal float,
+  PRIMARY KEY (id)
+);
+--DROP TABLE data_engineer;
+CREATE TABLE data_engineer (
+  id SERIAL,
+  job_title VARCHAR(1000),
+  salary_estimate VARCHAR(100),
+  industry varchar(200),
+  location VARCHAR(100),
+  state varchar(1000),
+  city varchar(200),
+  lower float,
+  upper float,
+  average_sal float,
+  PRIMARY KEY (id)
+);
+
+--DROP TABLE data_engineer_final;
+CREATE TABLE data_engineer_final (
+  id SERIAL,
+  job_title VARCHAR(1000),
+  state varchar(1000),
+  city varchar(200),
+  average_sal float,
+  PRIMARY KEY (id)
+);
+
+CREATE TABLE "job_info" (job_title TEXT, 
+   salary TEXT, 
+   PRIMARY KEY (job_title));
+   
+CREATE TABLE "salary" (job_title TEXT, 
+   avg_salary TEXT, 
+   salary_type TEXT,
+   num_of_salaries TEXT,
+   description TEXT,
+   source_url TEXT,
+   PRIMARY KEY (job_title));
