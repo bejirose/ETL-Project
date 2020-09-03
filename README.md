@@ -13,7 +13,7 @@ To use multiple data sources to find data job titles, average salaries and salar
 
 **ETL PROCESS**
 
-**1. EXTRACT & TRANSFORM STEPS**
+1. EXTRACT & TRANSFORM STEPS
 
     1.1 Scrape source # 1 - Start with a list of job titles. Fill Indeed search field for each title and click "Search". This shows results page with average salary and other details. The key challenge was that indeed search field pops a drop-down mouse_over list and by deafult only searches for first option. Splinter was used to mouse_over last option that allows "popular search for the specific title desired". Second challenge was the classes would change based on indeed loading two different type of search pages on same URL. The scraped data is stored in a pandas dataframe.
 
